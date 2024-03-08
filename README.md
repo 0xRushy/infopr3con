@@ -17,7 +17,7 @@ InfoPr3con is a command-line tool for analyzing iOS app IPA files to extract and
  
  ## Usage
  
-./infopr3con.sh -f {ipa file}
+./infopr3con.sh -f {IPA file}
 
 ## Requirements
 Bash shell
