@@ -1,6 +1,6 @@
 # InfoPr3con
 
-InfoPr3con is a command-line tool for analyzing iOS app IPA files to extract and analyze app permissions, API keys, secrets, and App Transport Security settings
+InfoPr3con is a command-line tool for analyzing iOS app IPA files to extract and analyze app permissions, API keys, secrets, URLs and App Transport Security settings
 (If you are lazy to use MobSF... LOL)
 
 ## Installation
